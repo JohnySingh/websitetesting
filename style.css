@@ -1,0 +1,111 @@
+header{
+  height: 100px;
+  width: 900px;
+  
+ 
+  color: rgb(255, 255, 255);
+  padding-left: 0px;
+  
+  text-align: center;
+  height: 100px;
+  width: 900px;
+  margin-right: 100px;
+
+}
+header H1{color: rgb(255, 244, 236);
+
+text-align: center;
+
+}
+header h2{
+  text-align: center;
+  
+  
+}
+header img{
+ float: left;
+  margin-right: 50px;
+}
+nav{
+  height: 100px;
+width: 900px;
+
+text-align: center;
+margin-left: 100px;
+color: white;
+
+
+
+}
+nav a{
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: white;
+  text-underline-position: auto;
+  
+}
+main{  height: 100px;
+  width: 900px;
+  
+  text-align: center;
+  margin-left: 100px;
+
+}
+main p{
+  color: rgb(253, 253, 253);
+  font-family: monospace;
+}
+footer{ height: 100px;
+  width: 900px;
+    
+  text-align: center;
+  margin-left: 100px;
+  margin-top: 30px;
+  
+  color: rgb(255, 255, 255);
+  padding-top: 30px;
+
+}
+body{
+
+
+background-image: url(./pexels-regiane-tosatti-22823.jpg);
+background-size: cover;
+height: 100vh;
+background-repeat: repeat;
+
+}
+button{
+  height: 50px;
+  width: 150px;
+  text-align: center;
+  color: brown;
+  background-color: rgb(0, 0, 0);
+  font-family: sans-serif;
+}
+header button{
+height:100px ;
+width: 250px;
+background-color: rgb(142, 199, 150);
+
+}
+footer button{
+  color: rgb(240, 230, 221);
+  height: 60px;
+  width: 130px;
+  background-color: rgb(148, 84, 45);
+  text-align: center;
+margin-bottom: 10px;
+margin-top: 10px;
+padding-bottom: 10px;
+}
+.signin-form{
+  height: 100px;
+  width: 600px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  margin-left: 130px;
+}
+
+
